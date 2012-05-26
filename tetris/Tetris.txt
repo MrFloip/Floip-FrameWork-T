@@ -1,1 +1,0 @@
-./Release/main.o ./Release/tetris_scene.o ./Release/framerate_object.o ./Release/framerate_regulator.o ./Release/image_cache.o ./Release/logger.o ./Release/f_exception.o  
